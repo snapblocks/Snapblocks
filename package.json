@@ -4,6 +4,8 @@
   "description": "Snapblocks is a design system driven code platform",
   "main": "index.js",
   "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
