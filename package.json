@@ -6,7 +6,8 @@
   "scripts": {
     "start": "parcel src/index.html --open",
     "build": "parcel build src/index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "styleguide": "start-storybook"
   },
   "repository": {
     "type": "git",
@@ -29,6 +30,9 @@
   },
   "homepage": "https://github.com/snapblocks/Snapblocks#readme",
   "devDependencies": {
+    "@babel/core": "^7.10.1",
+    "@storybook/html": "^5.3.19",
+    "babel-loader": "^8.1.0",
     "parcel-bundler": "^1.12.4"
   }
 }
