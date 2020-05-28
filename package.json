@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/snapblocks/Snapblocks/issues"
   },
-  "homepage": "https://github.com/snapblocks/Snapblocks#readme"
+  "homepage": "https://github.com/snapblocks/Snapblocks#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
