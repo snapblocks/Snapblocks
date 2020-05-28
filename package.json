@@ -1,0 +1,29 @@
+{
+  "name": "snapblocks",
+  "version": "1.0.0",
+  "description": "Snapblocks is a design system driven code platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snapblocks/Snapblocks.git"
+  },
+  "keywords": [
+    "snapblocks",
+    "code",
+    "development",
+    "javascript",
+    "css",
+    "html",
+    "styleguides",
+    "design"
+  ],
+  "author": "Mariz Melo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snapblocks/Snapblocks/issues"
+  },
+  "homepage": "https://github.com/snapblocks/Snapblocks#readme"
+}
